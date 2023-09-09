@@ -1,5 +1,2 @@
-{{#user}}
-Name: Mohammad Ismail Emon
-Skills: HTML, CSS, JS, React.js,Node JS,Express JS,Mongo DB,Firebase,Tailwind,Bootstrap,Github,Figma,Adobe illustrator,Photoshop.
-Email: emonismail44@@gmail.com
-{{/user}}
+
+
